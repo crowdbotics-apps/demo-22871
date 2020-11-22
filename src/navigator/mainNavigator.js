@@ -9,7 +9,6 @@ import Settings27177209Navigator from '../features/Settings27177209/navigator';
 import ArticleList177192Navigator from '../features/ArticleList177192/navigator';
 import ArticleList177191Navigator from '../features/ArticleList177191/navigator';
 import ArticleList177190Navigator from '../features/ArticleList177190/navigator';
-import ArticleList6177189Navigator from '../features/ArticleList6177189/navigator';
 import Messaging5177187Navigator from '../features/Messaging5177187/navigator';
 import UserProfile4177186Navigator from '../features/UserProfile4177186/navigator';
 import Feed1177185Navigator from '../features/Feed1177185/navigator';
@@ -27,7 +26,6 @@ Settings27177209: { screen: Settings27177209Navigator },
 ArticleList177192: { screen: ArticleList177192Navigator },
 ArticleList177191: { screen: ArticleList177191Navigator },
 ArticleList177190: { screen: ArticleList177190Navigator },
-ArticleList6177189: { screen: ArticleList6177189Navigator },
 Messaging5177187: { screen: Messaging5177187Navigator },
 UserProfile4177186: { screen: UserProfile4177186Navigator },
 Feed1177185: { screen: Feed1177185Navigator },
